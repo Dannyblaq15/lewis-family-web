@@ -1,0 +1,6 @@
+{
+  "name": "HeritageHome",
+  "description": "An immersive digital memory scape and family scrapbook browser, custom styled with Gen Z internet-retro aesthetics, connecting family legacy with modern storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
